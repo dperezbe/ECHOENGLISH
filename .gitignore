@@ -1,2 +1,3 @@
 .vs
-EchoEnglish/obj/Debug/*
+EchoEnglish/bin
+EchoEnglish/obj

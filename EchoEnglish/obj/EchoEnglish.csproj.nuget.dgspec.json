@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repositorios\\MAUI\\ECHOENGLISH\\EchoEnglish\\EchoEnglish\\EchoEnglish.csproj": {}
+    "C:\\Repositorios\\MAUI\\ECHOENGLISH\\EchoEnglish\\EchoEnglish.csproj": {}
   },
   "projects": {
-    "C:\\Repositorios\\MAUI\\ECHOENGLISH\\EchoEnglish\\EchoEnglish\\EchoEnglish.csproj": {
+    "C:\\Repositorios\\MAUI\\ECHOENGLISH\\EchoEnglish\\EchoEnglish.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repositorios\\MAUI\\ECHOENGLISH\\EchoEnglish\\EchoEnglish\\EchoEnglish.csproj",
+        "projectUniqueName": "C:\\Repositorios\\MAUI\\ECHOENGLISH\\EchoEnglish\\EchoEnglish.csproj",
         "projectName": "EchoEnglish",
-        "projectPath": "C:\\Repositorios\\MAUI\\ECHOENGLISH\\EchoEnglish\\EchoEnglish\\EchoEnglish.csproj",
+        "projectPath": "C:\\Repositorios\\MAUI\\ECHOENGLISH\\EchoEnglish\\EchoEnglish.csproj",
         "packagesPath": "C:\\Users\\dperez\\.nuget\\packages\\",
-        "outputPath": "C:\\Repositorios\\MAUI\\ECHOENGLISH\\EchoEnglish\\EchoEnglish\\obj\\",
+        "outputPath": "C:\\Repositorios\\MAUI\\ECHOENGLISH\\EchoEnglish\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

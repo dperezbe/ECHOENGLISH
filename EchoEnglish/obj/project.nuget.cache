@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+JkbH68p+8A=",
+  "dgSpecHash": "7TZgYN1kPoY=",
   "success": true,
-  "projectFilePath": "C:\\Repositorios\\MAUI\\ECHOENGLISH\\EchoEnglish\\EchoEnglish\\EchoEnglish.csproj",
+  "projectFilePath": "C:\\Repositorios\\MAUI\\ECHOENGLISH\\EchoEnglish\\EchoEnglish.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dperez\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\dperez\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
